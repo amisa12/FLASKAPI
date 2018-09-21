@@ -3,7 +3,7 @@
 
 //on windows
 
-set FLASK_APP=views
+set FLASK_APP=view
 set FLASK_DEBUG=1
 flask run
 
