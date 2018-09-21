@@ -8,6 +8,6 @@ set FLASK_DEBUG=1
 flask run
 
 //on linux
-export FLASK_APP=views
+export FLASK_APP=view
 export FLASK_DEBUG=1
 flask run
