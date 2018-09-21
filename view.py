@@ -1,6 +1,6 @@
 
 from flask import Flask, request, jsonify
-from API. import model
+from . import model
 
 app = Flask(__name__)
 app.config["TESTING"] = True
