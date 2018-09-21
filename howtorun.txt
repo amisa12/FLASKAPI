@@ -1,0 +1,13 @@
+//The files must be .py
+//in cmd type the following commands
+
+//on windows
+
+set FLASK_APP=views
+set FLASK_DEBUG=1
+flask run
+
+//on linux
+export FLASK_APP=views
+export FLASK_DEBUG=1
+flask run
